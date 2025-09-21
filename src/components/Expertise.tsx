@@ -7,7 +7,6 @@ import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
     "React",
-    "TypeScript",
     "JavaScript",
     "HTML5",
     "CSS3",
