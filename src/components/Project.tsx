@@ -35,11 +35,11 @@ function Project() {
     <div className="project">
         <img src={resonify01} className="zoom" alt="Resonify voice analysis" width="100%"/>
         <h2>Resonify</h2>
-        <p>AI voice attribution system using machine learning to identify and attribute AI-generated voices to their source models. Built ML pipeline with voice analysis algorithms using PyTorch and scikit-learn, optimised through gender-based feature extraction.
+        <p>AI voice attribution system using machine learning to identify and attribute AI-generated voices to their source models. Built ML pipeline with voice analysis algorithms using PyTorch and scikit-learn, optimised by reduction of input space through filtering voices through gender-based feature extraction.
         <br/><br/>
-        Implemented multi-input support including direct audio upload and YouTube URL processing with automatic audio extraction. Developed API with efficient synchronisation, model optimisation, and real-time processing capabilities. Features clean UI with step-by-step analysis workflow and confidence scoring.
+        Implemented multi-input support including direct audio upload and YouTube URL processing with automatic audio extraction. Developed Flask API for asynchronously analysing voices through job submission to always on process. Features clean UI with step-by-step analysis workflow and confidence scoring.
         <br/><br/>
-        Technical implementation includes audio processing, machine learning embeddings, vector similarity comparisons, and real-time inference optimisation. Deployed on PythonAnywhere with efficient resource usage.
+        Technical implementation includes audio processing, machine learning embeddings, and vector similarity comparisons. Deployed on PythonAnywhere.
         <br/><br/>
         <strong>Tech Stack:</strong> Flask, Python, Machine Learning (PyTorch, scikit-learn), Audio Processing, PythonAnywhere</p>
     </div>
