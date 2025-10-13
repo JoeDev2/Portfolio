@@ -10,7 +10,7 @@ function Footer() {
         <a href="https://github.com/JoeDev2" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href="https://www.linkedin.com/in/joe-h-908340218/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
       </div>
-      <p>Email: joehudsondev@outlook.com</p>
+      <p>Email: joe.bailey99@outlook.com</p>
     </footer>
   );
 }
