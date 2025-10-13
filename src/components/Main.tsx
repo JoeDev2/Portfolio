@@ -15,15 +15,15 @@ function Main() {
           <div className="social_icons">
             <a href="https://github.com/JoeDev2" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/joe-h-908340218/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
-            <a href="mailto:joehudsondev@outlook.com"><EmailIcon/></a>
+            <a href="mailto:joe.bailey99@outlook.com"><EmailIcon/></a>
           </div>
-          <h1>Joe Hudson</h1>
+          <h1>Joe Bailey</h1>
           <p>Full Stack Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/JoeDev2" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/joe-h-908340218/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
-            <a href="mailto:joehudsondev@outlook.com"><EmailIcon/></a>
+            <a href="mailto:joe.bailey99@outlook.com"><EmailIcon/></a>
           </div>
         </div>
       </div>
